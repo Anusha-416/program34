@@ -1,0 +1,5 @@
+a=10
+if a<0:
+  print("a is negative value")
+else:
+  print("a is positive value")
